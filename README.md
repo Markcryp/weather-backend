@@ -21,7 +21,14 @@ Demo from this repository:
 ## Default `db.json`
 
 ```json
-
+{
+       "id": "1",
+       "location": "Nairobi",
+       "temperature": "16",
+       "wind": "0 km/h",
+       "latitude": "1.2921S",
+       "longitude": "36.8219E"
+    },
 ```
 
 ## Enable write operations
